@@ -1,3 +1,5 @@
+"use client";
+
 import { StrictMode } from "react";
 import "./styles.css";
 
